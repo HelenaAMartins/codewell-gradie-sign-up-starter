@@ -1,0 +1,28 @@
+@media (min-width: 768px) {
+  .container {
+    padding: 80px;
+    max-width: 650px;
+  }
+  .wrapper {
+    border-radius: 0 0 10px 10px;
+    overflow: hidden;
+  }
+  #email, #password{
+    padding: 25px 15px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    padding: 0;
+    max-width: 800px;
+  }
+  .wrapper {
+    border-radius: 10px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  #email, #password{
+    padding: 20px 15px;
+  }
+}
