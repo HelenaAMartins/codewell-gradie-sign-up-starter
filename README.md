@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/25a3fa66-b78b-485e-94df-701ed8cb327b/deploy-status)](https://gradie-codewell.netlify.app)
 
 # Welcome to Codewell! 👋
 
