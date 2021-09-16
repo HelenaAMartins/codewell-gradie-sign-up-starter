@@ -1,32 +1,13 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/25a3fa66-b78b-485e-94df-701ed8cb327b/deploy-status)](https://gradie-codewell.netlify.app)
+# CODEWELL LOGIN PAGE
 
-# Welcome to Codewell! 👋
+## Website Preview
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://gradie-codewell.netlify.app)
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
-
-Free or paid, all templates are high quality and will make great portfolio pieces.
-
-### I've completed the challenge, now what?
-
-We recommend using one of these two websites to deploy your projects
-
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+## Tecnologies
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-### Submit your solution to Codewell
-
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
-
-### Join our community on Slack
-
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
-
-### Fonts Used
-
-https://fonts.google.com/specimen/Roboto
-
-
+### Briefing
+Personal project done in order to study Javascript, HTML and CSS.
